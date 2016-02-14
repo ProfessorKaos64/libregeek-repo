@@ -1,0 +1,22 @@
+Source: libregeek-repo
+Priority: extra
+Section: utils
+Maintainer: Michael DeGuzis <mdeguzis@gmail.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+
+Package: steamos-tools-repo
+Architecture: all
+Depends: ${misc:Depends}
+Recommends: libregeek-archive-keyring
+Description: Apt config for SteamOS-Tools packages
+ This package adds the SteamOS-Tools  stable package repository configuraiton
+ to your system
+
+Package: steamos-tools-beta-repo
+Architecture: all
+Depends: ${misc:Depends}
+Recommends: libregeek-archive-keyring
+Description: Apt config for SteamOS-Tools packages (beta)
+ This package adds the SteamOS-Tools  beta package repository configuration
+ to your system

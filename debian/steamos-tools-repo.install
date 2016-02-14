@@ -1,0 +1,7 @@
+/etc/apt/sources.list.d/steamos-tools.list
+/etc/apt/sources.list.d/jessie.list
+/etc/apt/sources.list.d/jessie-backports.list
+/etc/apt/preferences.d/steamos-tools
+/etc/apt/preferences.d/jessie
+/etc/apt/preferences.d/jessie-backports
+

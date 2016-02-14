@@ -1,0 +1,3 @@
+# Libregeek Debian repository
+deb http://packages.libregeek.org/SteamOS-Tools/ brewmaster main games
+deb-src http://packages.libregeek.org/SteamOS-Tools/ brewmaster main games
