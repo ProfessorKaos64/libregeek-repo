@@ -1,3 +1,9 @@
+libregeek-repo (0.2+bsos-1) brewmaster; urgency=low
+
+  * Corrected missing install of unattended upgrades file
+
+ -- SteamOS-Tools Signing Key <mdeguzis@gmail.com>  Sun, 21 Feb 2016 08:36:07 -0500
+
 libregeek-repo (0.1+bsos-1) brewmaster; urgency=low
 
   * LibreGeek repositories
