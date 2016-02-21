@@ -4,4 +4,4 @@
 /etc/apt/preferences.d/steamos-tools
 /etc/apt/preferences.d/jessie
 /etc/apt/preferences.d/jessie-backports
-
+/etc/apt/apt.conf.d/60unattended-steamos-tools
