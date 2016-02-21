@@ -38,6 +38,8 @@ APT::Periodic::AutocleanInterval "5";
 // Automatically upgrade packages from these (origin:archive) pairs
 Unattended-Upgrade::Origins-Pattern {
         "origin=steamos-tools,label=Custom SteamOS-Tools Debian Repository";
+        "origin=Debian,label=Debian";
+        "origin=Debian Backports,label=Debian Backports";
 };
 Unattended-Upgrade::InstallOnShutdown "true";
 
