@@ -1,3 +1,9 @@
+libregeek-repo (0.5+bsos1-1) brewmaster; urgency=low
+
+  * Improve pinning for jessie/jessie-backports
+
+ -- SteamOS-Tools Signing Key <mdeguzis@gmail.com>  Mon, 14 Mar 2016 21:04:14 -0400
+
 libregeek-repo (0.4+bsos1-1) brewmaster; urgency=low
 
   * Fix improper pinning for jessie/jessie-backports
