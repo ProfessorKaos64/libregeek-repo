@@ -118,6 +118,10 @@ APT::Update::Pre-Invoke {
 # DPKG tweaks 
 ##########################################
 
+DPkg::Pre-Invoke {
+        "rm -f /var/run/unattended-upgrades/ready.json";
+};
+
 ########################
 # Definitions
 ########################
