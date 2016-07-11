@@ -1,7 +1,0 @@
-Package: *
-Pin: release o=Debian Backports
-Pin-Priority:120
-
-Package: *
-Pin: origin ""
-Pin-Priority:120
