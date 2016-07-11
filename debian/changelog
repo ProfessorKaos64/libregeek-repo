@@ -1,3 +1,9 @@
+libregeek-repo (0.7+bsos-2) brewmaster; urgency=low
+
+  * Remove Jessie backports, improve prefs
+
+ -- Michael DeGuzis <mdeguzis@gmail.com>  Mon, 11 Jul 2016 19:08:12 -0400
+
 libregeek-repo (0.7+bsos-1) brewmaster; urgency=low
 
   * Always use new conf file to avoid conflicts
