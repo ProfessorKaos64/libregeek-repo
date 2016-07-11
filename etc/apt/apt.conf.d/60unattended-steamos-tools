@@ -39,7 +39,7 @@ APT::Periodic::AutocleanInterval "5";
 Unattended-Upgrade::Origins-Pattern {
         "origin=steamos-tools,label=Custom SteamOS-Tools Debian Repository";
         "origin=Debian,label=Debian";
-        "origin=Debian Backports,label=Debian Backports";
+        //"origin=Debian Backports,label=Debian Backports";
 };
 Unattended-Upgrade::InstallOnShutdown "true";
 
@@ -148,11 +148,9 @@ DPkg::Pre-Invoke {
 # Set default behavior
 ########################
 
-# This option uses the old conffile. 
-# If there is no conffile, the program use the conffile from the package.
+# Force to use the new package configuration file
 Dpkg::Options {
-   "--force-confdef";
-   "--force-confold";
+   "--force-confnew";
 }
 
 ##########################################
