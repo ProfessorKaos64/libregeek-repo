@@ -1,3 +1,10 @@
+libregeek-repo (0.6+bsos1-1) brewmaster; urgency=low
+
+  * Make jessie-backports optional. 
+  * Lines commented out.
+
+ -- Michael DeGuzis <mdeguzis@gmail.com>  Mon, 11 Jul 2016 08:19:46 -0400
+
 libregeek-repo (0.5+bsos1-1) brewmaster; urgency=low
 
   * Improve pinning for jessie/jessie-backports
