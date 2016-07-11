@@ -1,4 +1,4 @@
-libregeek-repo (0.7+bsos1-1) brewmaster; urgency=low
+libregeek-repo (0.7+bsos-1) brewmaster; urgency=low
 
   * Always use new conf file to avoid conflicts
 
