@@ -1,6 +1,0 @@
-# Debian-Jessie backports repo
-# These sources are now disabled. At your own risk, you can enable them. 
-# Package conflicts, and OS update flags in SteamOS, despite apt-pinning, may occur.
-
-# deb http://httpredir.debian.org/debian/ jessie-backports main contrib non-free
-# deb-src http://httpredir.debian.org/debian/ jessie-backports main contrib non-free
