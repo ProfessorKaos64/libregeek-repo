@@ -1,3 +1,9 @@
+libregeek-repo (0.8+bsos-5) brewmaster; urgency=low
+
+  * Case conversion on repo folder name
+
+ -- Michael DeGuzis <mdeguzis@gmail.com>  Tue, 12 Jul 2016 16:34:36 -0400
+
 libregeek-repo (0.8+bsos-4) brewmaster; urgency=low
 
   * /etc/apt/preferences.d/steamos spec was not broad enough
