@@ -1,3 +1,9 @@
+libregeek-repo (0.8+bsos-3) brewmaster; urgency=low
+
+  * Finalize improvements to apt-prefs
+
+ -- Michael DeGuzis <mdeguzis@gmail.com>  Mon, 11 Jul 2016 21:49:29 -0400
+
 libregeek-repo (0.8+bsos-2) brewmaster; urgency=low
 
   * Test 2 - Remove Jessie backports, improve prefs
