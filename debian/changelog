@@ -1,3 +1,9 @@
+libregeek-repo (0.8+bsos-2) brewmaster; urgency=low
+
+  * Test 2 - Remove Jessie backports, improve prefs
+
+ -- Michael DeGuzis <mdeguzis@gmail.com>  Mon, 11 Jul 2016 20:50:53 -0400
+
 libregeek-repo (0.8+bsos-1) brewmaster; urgency=low
 
   * Remove Jessie backports, improve prefs
