@@ -1,3 +1,3 @@
 Package: *
 Pin: release n=brewmaster_testing
-Pin-Priority:200
+Pin-Priority:500
