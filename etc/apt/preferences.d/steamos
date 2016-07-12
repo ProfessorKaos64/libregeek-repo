@@ -1,0 +1,3 @@
+Package: *
+Pin: release l=SteamOS
+Pin-Priority: 900
