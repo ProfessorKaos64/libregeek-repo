@@ -1,3 +1,10 @@
+libregeek-repo (0.8+bsos-4) brewmaster; urgency=low
+
+  * /etc/apt/preferences.d/steamos spec was not broad enough
+  * steamos pin should be release "o=Valve Software LLC"
+
+ -- Michael DeGuzis <mdeguzis@gmail.com>  Mon, 11 Jul 2016 22:20:02 -0400
+
 libregeek-repo (0.8+bsos-3) brewmaster; urgency=low
 
   * Finalize improvements to apt-prefs
