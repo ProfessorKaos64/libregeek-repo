@@ -1,3 +1,9 @@
+libregeek-repo (0.9+bsos-1) brewmaster; urgency=low
+
+  * Incorrect source list for beta channel
+
+ -- Michael DeGuzis <mdeguzis@gmail.com>  Tue, 02 Aug 2016 23:16:34 -0400
+
 libregeek-repo (0.8+bsos-5) brewmaster; urgency=low
 
   * Case conversion on repo folder name
