@@ -1,3 +1,2 @@
 /etc/apt/sources.list.d/jessie.list
 /etc/apt/preferences.d/jessie
-/etc/apt/apt.conf.d/60unattended-steamos-tools
