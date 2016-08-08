@@ -158,3 +158,14 @@ Dpkg::Options {
 # Additional reading and information
 ##########################################
 # See: https://github.com/ProfessorKaos64/SteamOS-Tools/wiki/Unattended-Upgrades
+
+
+########################
+# Hacks
+########################
+
+# Until I find a better way of detecting when updates were last checked,
+# Add a small hack here
+
+rm /var/log/steamos-tools-updates
+touch /var/log/steamos-tools-updates
