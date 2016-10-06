@@ -1,0 +1,7 @@
+Package: gcc
+Pin: release a=testing
+Pin-Priority: 100
+
+Package: g++
+Pin: release a=testing
+Pin-Priority: 100
