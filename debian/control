@@ -18,7 +18,7 @@ Architecture: all
 Depends: ${misc:Depends}
 Recommends: libregeek-archive-keyring
 Description: Apt config for SteamOS-Tools packages
- This package adds the SteamOS-Tools  stable package repository configuraiton
+ This package adds the SteamOS-Tools stable package repository configuraiton
  to your system.
 
 Package: steamos-tools-beta-repo
@@ -26,5 +26,14 @@ Architecture: all
 Depends: ${misc:Depends}
 Recommends: libregeek-archive-keyring
 Description: Apt config for SteamOS-Tools packages (beta)
- This package adds the SteamOS-Tools  beta package repository configuration
+ This package adds the SteamOS-Tools beta package repository configuration
  to your system.
+
+Package: debian-testing-toolchain
+Architecture: all
+Depends: ${misc:Depends}
+Recommends: libregeek-archive-keyring
+Description: Apt config for Debian Jessie Testing
+ This package adds the Debian Jessie Testing repository configuration.
+ Please note this is only intended for more bleeding-edge package
+ builds that require newer toolchains.
