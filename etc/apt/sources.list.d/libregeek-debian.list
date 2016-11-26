@@ -1,0 +1,3 @@
+# LibreGeek Debian repo
+deb http://packages.libregeek.org/debian/ jessie main games
+deb-src http://packages.libregeek.org/debian/ jessie main games
