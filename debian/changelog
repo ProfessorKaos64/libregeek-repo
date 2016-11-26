@@ -1,3 +1,9 @@
+libregeek-repo (0.9.5-1) jessie; urgency=low
+
+  * Add libregeek debian repo configuration
+
+ -- Michael DeGuzis <mdeguzis@gmail.com>  Sat, 26 Nov 2016 02:26:37 +0000
+
 libregeek-repo (0.9.3+bsos-1) brewmaster; urgency=low
 
   * Update configuration to have Debian packages auto update as well.
