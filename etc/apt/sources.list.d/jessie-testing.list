@@ -1,2 +1,2 @@
-deb http://packages.libregeek.org/debian jessie-testing main 
-deb-src http://packages.libregeek.org/debian jessie-testing main
+deb http://packages.libregeek.org/debian jessie_testing main 
+deb-src http://packages.libregeek.org/debian jessie_testing main
