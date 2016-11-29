@@ -1,2 +1,2 @@
-deb http://packages.libregeek.org/debian jessie-backports main contrib non-free
-deb-src http://packages.libregeek.org/debian jessie-backports main contrib non-free
+deb http://packages.libregeek.org/debian jessie-backports main
+deb-src http://packages.libregeek.org/debian jessie-backports main
