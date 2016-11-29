@@ -1,2 +1,2 @@
 deb http://packages.libregeek.org/debian jessie-testing main contrib non-free
-deb-src http://ftp.us.debian.org/debian jessie-testing main contrib non-free
+deb-src http://packages.libregeek.org/debian jessie-testing main contrib non-free
