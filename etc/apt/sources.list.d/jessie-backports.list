@@ -1,2 +1,2 @@
-deb http://packages.libregeek.org/debian jessie_backports main
-deb-src http://packages.libregeek.org/debian jessie_backports main
+deb http://packages.libregeek.org/debian jessie-backports main
+deb-src http://packages.libregeek.org/debian jessie-backports main
