@@ -11,7 +11,23 @@ Depends: ${misc:Depends}
 Recommends: libregeek-archive-keyring
 Description: Apt config for LibreGeek Debian sources
  This package adds the Debian package repository configuration
- to a Debian systema.
+ to a Debian systems.
+
+Package: libregeek-debian-backports-repo
+Architecture: all
+Depends: ${misc:Depends}
+Recommends: libregeek-archive-keyring
+Description: Apt config for LibreGeek Debian sources
+ This package adds the Debian package repository configuration
+ to a Debian systems (backports).
+
+Package: libregeek-debian-testing-repo
+Architecture: all
+Depends: ${misc:Depends}
+Recommends: libregeek-archive-keyring
+Description: Apt config for LibreGeek Debian sources
+ This package adds the Debian package repository configuration
+ to a Debian systems (testing).
 
 Package: steamos-tools-debian-repo
 Architecture: all
@@ -36,12 +52,3 @@ Recommends: libregeek-archive-keyring
 Description: Apt config for SteamOS-Tools packages (beta)
  This package adds the SteamOS-Tools beta package repository configuration
  to your system.
-
-Package: debian-testing-toolchain
-Architecture: all
-Depends: ${misc:Depends}
-Recommends: libregeek-archive-keyring
-Description: Apt config for Debian Jessie Testing
- This package adds the Debian Jessie Testing repository configuration.
- Please note this is only intended for more bleeding-edge package
- builds that require newer toolchains.
