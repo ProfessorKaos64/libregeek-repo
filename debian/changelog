@@ -1,3 +1,9 @@
+libregeek-repo (0.9.8-1) brewmaster; urgency=low
+
+  * Fix brewmaster testing list file
+
+ -- Michael DeGuzis <mdeguzis@gmail.com>  Fri, 02 Dec 2016 02:13:29 +0000
+
 libregeek-repo (0.9.7-1) jessie; urgency=low
 
   * Reupload for Debian
