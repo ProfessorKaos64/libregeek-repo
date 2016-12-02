@@ -1,3 +1,9 @@
+libregeek-repo (0.9.7-1) jessie; urgency=low
+
+  * Reupload for Debian
+
+ -- Michael DeGuzis <mdeguzis@gmail.com>  Fri, 02 Dec 2016 00:13:30 +0000
+
 libregeek-repo (0.9.7-1) brewmaster; urgency=low
 
   * Correct backport/testing dists to use dash, not underscore
