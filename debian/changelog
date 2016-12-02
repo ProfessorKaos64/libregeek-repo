@@ -1,3 +1,9 @@
+libregeek-repo (1.0.2-1) jessie; urgency=low
+
+  * Reupload
+
+ -- Michael DeGuzis <mdeguzis@gmail.com>  Fri, 02 Dec 2016 14:49:36 +0000
+
 libregeek-repo (1.0.2-1) brewmaster; urgency=low
 
   * Correct libregeek debian list
