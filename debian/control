@@ -5,6 +5,22 @@ Maintainer: Michael DeGuzis <mdeguzis@gmail.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.5
 
+Package: debian-repo
+Architecture: all
+Depends: ${misc:Depends}
+Recommends: debian-archive-keyring
+Description: Apt config for Debian sources
+ This package adds the current Debian 
+ repository configuration to a Debian systems.
+
+Package: debian-backports-repo
+Architecture: all
+Depends: ${misc:Depends}
+Recommends: debian-archive-keyring
+Description: Apt config for Debian sources
+ This package adds the current Debian backports 
+ repository configuration to a Debian systems.
+
 Package: libregeek-debian-repo
 Architecture: all
 Depends: ${misc:Depends}
