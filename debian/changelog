@@ -1,3 +1,9 @@
+libregeek-repo (1.1.0-1) brewmaster; urgency=low
+
+  * jessie backports pinning
+
+ -- Michael DeGuzis <mdeguzis@gmail.com>  Sun, 13 Jan 2019 21:50:39 -0500
+
 libregeek-repo (1.0.2-1) jessie; urgency=low
 
   * Reupload
